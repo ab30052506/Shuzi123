@@ -1,4 +1,4 @@
-# Vibe Coding Efficiency Boost Tips
+﻿# Vibe Coding Efficiency Boost Tips
 
 > Increase your AI development efficiency by 10x
 

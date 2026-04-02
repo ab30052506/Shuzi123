@@ -1,4 +1,4 @@
-## DeepSeek 本地部署教程
+﻿## DeepSeek 本地部署教程
 
 > 建议观看视频版教程：[https://www.bilibili.com/video/BV1KYwoevEit](https://www.bilibili.com/video/BV1KYwoevEit)
 

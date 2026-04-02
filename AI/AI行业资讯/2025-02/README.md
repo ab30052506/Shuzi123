@@ -1,6 +1,6 @@
-# Ai行业资讯
+﻿# Ai行业资讯
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 [DeepSeek“朋友圈”不断扩围：10家国内外云厂商宣布接入](DeepSeek“朋友圈”不断扩围：10家国内外云厂商宣布接入.md)
 
@@ -54,5 +54,5 @@
 
 [雷军：钦佩DeepSeek取得的成就，每个人可能都要学习AI知识](雷军：钦佩DeepSeek取得的成就，每个人可能都要学习AI知识.md)
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 

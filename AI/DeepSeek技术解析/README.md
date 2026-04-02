@@ -1,6 +1,6 @@
-# DeepSeek技术解析
+﻿# DeepSeek技术解析
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 
 ## DeepSeek 技术分析 
@@ -27,5 +27,5 @@
 
 [DeepSeek华丽文风从何而来？业内人士：训练数据、训练策略和迭代优化缺一不可](DeepSeek%20模型训练/DeepSeek华丽文风从何而来？业内人士：训练数据、训练策略和迭代优化缺一不可.md)
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 

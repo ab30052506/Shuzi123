@@ -1,4 +1,4 @@
-# Vibe Coding Code Quality Assurance
+﻿# Vibe Coding Code Quality Assurance
 
 > How to Ensure the Quality of AI-Generated Code
 

@@ -1,4 +1,4 @@
-## 5 分钟直出 46 页论文！谷歌 Deep Research 完爆 OpenAI，最强 Gemini 2.5 加持
+﻿## 5 分钟直出 46 页论文！谷歌 Deep Research 完爆 OpenAI，最强 Gemini 2.5 加持
 
 ![](https://n.sinaimg.cn/spider20250409/142/w660h282/20250409/c0bc-a50acd0323a40fc0bdd2b6ee3a8ff9d0.jpg)
 

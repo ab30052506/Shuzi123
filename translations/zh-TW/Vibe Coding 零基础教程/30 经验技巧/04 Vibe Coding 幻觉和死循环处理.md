@@ -1,4 +1,4 @@
-# Vibe Coding 幻覺和死循環處理
+﻿# Vibe Coding 幻覺和死循環處理
 
 > 如何讓失控的 AI 重回正軌
 

@@ -1,4 +1,4 @@
-# The Five Core Principles of Vibe Coding
+﻿# The Five Core Principles of Vibe Coding
 
 > Five essential mindsets to take you from beginner to expert
 
@@ -350,7 +350,7 @@ You've got this! 💪
 
 ## Recommended Resources
 
-1) Yupi AI Navigation: [Comprehensive AI resources, latest AI news, free AI tutorials](https://ai.codefather.cn)  
+1) Yupi AI Navigation: [Comprehensive AI resources, latest AI news, free AI tutorials]()  
 2) Code Navigation Learning Community: [Learning paths, programming tutorials, practical projects, career guides, Q&A](https://www.codefather.cn)  
 3) Programmer Interview Handbook: [Internship/campus/social recruitment high-frequency topics, company problem analysis](https://www.mianshiya.com)  
 4) Programmer Resume Builder: [Professional templates, rich examples, interview preparation](https://www.laoyujianli.com)  

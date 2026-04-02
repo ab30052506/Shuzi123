@@ -1,4 +1,4 @@
-## DeepSeek 提示词基本法则
+﻿## DeepSeek 提示词基本法则
 > 官方提供了一些 prompt ：https://api-docs.deepseek.com/zh-cn/prompt-library/
 
 

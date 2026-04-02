@@ -1,4 +1,4 @@
-# Remotion：用 AI 编程做动画视频
+﻿# Remotion：用 AI 编程做动画视频
 
 > 从安装到出片，全程手把手
 
@@ -178,9 +178,9 @@ AI 给出了方案，大概需要这些素材：
 
 AI 可以利用 Firecrawl Search 这个 MCP 工具来帮忙搜索网络图片。
 
-如果你不知道怎么安装 MCP 工具，可以参考我的[《AI 编程零基础入门教程》](https://ai.codefather.cn/vibe)中 “优质 AI 编程扩展推荐” 这一节。
+如果你不知道怎么安装 MCP 工具，可以参考我的[《AI 编程零基础入门教程》](/vibe)中 “优质 AI 编程扩展推荐” 这一节。
 
-> 指路：[ai.codefather.cn/vibe](https://ai.codefather.cn/vibe)
+> 指路：[shuzi123.vercel.app/vibe](/vibe)
 
 ![鱼皮AI导航网站-免费AI编程教程](https://pic.yupi.icu/1/image-20260217223852396.png)
 
@@ -279,7 +279,7 @@ Crossover过掉你 无情暴扣
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

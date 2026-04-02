@@ -1,4 +1,4 @@
-# 微软发布 Phi-4-mini-flash-reasoning 端侧 AI 模型：10 倍吞吐量，推理能力升级
+﻿# 微软发布 Phi-4-mini-flash-reasoning 端侧 AI 模型：10 倍吞吐量，推理能力升级
 本文转载自： [微软发布 Phi-4-mini-flash-reasoning 端侧 AI 模型：10 倍吞吐量，推理能力升级](https://www.ithome.com/0/867/391.htm)
 
 感谢IT之家网友 [华南吴彦祖](https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D2029428) 的线索投递！

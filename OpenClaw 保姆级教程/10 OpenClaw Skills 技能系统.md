@@ -1,4 +1,4 @@
-# OpenClaw Skills 技能系统
+﻿# OpenClaw Skills 技能系统
 
 > 给 AI 装能力扩展包，从发现到安装全流程
 
@@ -92,7 +92,7 @@
 
 ![](https://pic.yupi.icu/1/1773906407188-7e5a8c3f-2af4-41a8-9bad-0782f3e61b8f.png)
 
-当然，还有很多获取实用技能的渠道，像鱼皮的 AI 导航网站 ai.codefather.cn 也给大家推荐了一波技能。
+当然，还有很多获取实用技能的渠道，像鱼皮的 AI 导航网站 shuzi123.vercel.app 也给大家推荐了一波技能。
 
 ![](https://pic.yupi.icu/1/image-20260319203453714.png)
 
@@ -229,7 +229,7 @@ AI 会去读取飞书技能文档，学习怎么发送多媒体消息。
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

@@ -1,4 +1,4 @@
-# OpenAI 迄今最大交易落地，65 亿美元完成收购前苹果首席设计师 Jony Ive 的初创公司 io
+﻿# OpenAI 迄今最大交易落地，65 亿美元完成收购前苹果首席设计师 Jony Ive 的初创公司 io
 本文转载自： [OpenAI 迄今最大交易落地，65 亿美元完成收购前苹果首席设计师 Jony Ive 的初创公司 io](https://www.ithome.com/0/867/057.htm)
 
 感谢IT之家网友 [風見暉一](https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D795776)、[咩咩洋](https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1520790) 的线索投递！

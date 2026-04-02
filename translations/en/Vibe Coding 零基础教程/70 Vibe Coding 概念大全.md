@@ -1,10 +1,10 @@
-# Vibe Coding Concept Encyclopedia
+﻿# Vibe Coding Concept Encyclopedia
 
 > Understand all the core terms of AI programming at once
 
 
 
-Hello, I'm Yupi, a former Tencent full-stack developer, an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms, and the creator of over 10 self-developed products like [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I'm Yupi, a former Tencent full-stack developer, an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms, and the creator of over 10 self-developed products like [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 While learning Vibe Coding, you will inevitably encounter various unfamiliar terms and concepts. For example, what is a Token? What is a context window? What is RAG? These concepts may sound lofty, but they are actually not difficult to understand.
 
@@ -353,7 +353,7 @@ The core design of Skills is **progressive disclosure**: AI only loads relevant 
 
 ![](https://pic.yupi.icu/1/agent%20skills%20bundling.jpeg)
 
-💡 Want to discover more useful Agent Skills? Visit [Yupi AI Navigation - Skills Encyclopedia](https://ai.codefather.cn/skills) for continuously updated high-quality skills to unleash AI's execution potential.
+💡 Want to discover more useful Agent Skills? Visit [Yupi AI Navigation - Skills Encyclopedia](/skills) for continuously updated high-quality skills to unleash AI's execution potential.
 
 
 

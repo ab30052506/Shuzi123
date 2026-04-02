@@ -1,4 +1,4 @@
-# 荣耀推出 AI Connect 平台：支持 MCP 和 A2A 协议，联合阿里、比亚迪、美的
+﻿# 荣耀推出 AI Connect 平台：支持 MCP 和 A2A 协议，联合阿里、比亚迪、美的
 
 本文转载自： [荣耀推出 AI Connect 平台：支持 MCP 和 A2A 协议，联合阿里、比亚迪、美的](https://www.ithome.com/0/865/358.htm)
 

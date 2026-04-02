@@ -1,4 +1,4 @@
-# AI Creative Application - College Entrance Exam Score Predictor Project
+﻿# AI Creative Application - College Entrance Exam Score Predictor Project
 
 This project is an interesting AI College Entrance Exam Score Predictor, supporting various prediction methods such as scientific prediction, metaphysical prediction, psychological prediction, and social prediction.
 
@@ -108,7 +108,7 @@ Finally, I wish all examinees success in their exams and a bright future! Rememb
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

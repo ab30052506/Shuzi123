@@ -1,4 +1,4 @@
-# OpenClaw 定时任务与自动化
+﻿# OpenClaw 定时任务与自动化
 
 > 让小龙虾定时帮你巡检、汇报、备份
 
@@ -94,7 +94,7 @@ openclaw config set agents.defaults.heartbeat.every "0m"
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

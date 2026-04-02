@@ -1,4 +1,4 @@
-# AI IDE 插件
+﻿# AI IDE 插件
 
 > 在熟悉的編輯器中加入 AI 能力
 
@@ -234,7 +234,7 @@ Console Ninja 能讓你在編輯器裡直接看到程式碼的運行結果，不
 
 ## 推薦資源
 
-1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程](https://ai.codefather.cn)
+1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程]()
 
 2）編程導航學習圈：[學習路線、編程教程、實戰項目、求職寶典、交流答疑](https://www.codefather.cn)
 

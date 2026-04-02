@@ -1,4 +1,4 @@
-# Kimi K2 - AI Document Reading Assistant Project Practice
+﻿# Kimi K2 - AI Document Reading Assistant Project Practice
 
 This project is an AI document reading assistant website that helps you quickly understand various complex documents (papers, technical documents, PDFs, etc.) and also helps you manage your documents.
 
@@ -122,7 +122,7 @@ That's all for this sharing. I hope this tool is helpful to everyone, and don't 
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

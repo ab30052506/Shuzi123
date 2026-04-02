@@ -1,4 +1,4 @@
-# MCP Service Development Step-by-Step Guide
+﻿# MCP Service Development Step-by-Step Guide
 
 > Developing MCP Services from Scratch
 
@@ -243,7 +243,7 @@ OK, that's all for this sharing. If you've learned something, remember to like a
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

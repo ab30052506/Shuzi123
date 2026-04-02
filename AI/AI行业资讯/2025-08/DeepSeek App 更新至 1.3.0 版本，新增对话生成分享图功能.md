@@ -1,4 +1,4 @@
-# DeepSeek App 更新至 1.3.0 版本，新增对话生成分享图功能
+﻿# DeepSeek App 更新至 1.3.0 版本，新增对话生成分享图功能
 
 本文转载自： [DeepSeek App 更新至 1.3.0 版本，新增对话生成分享图功能](https://news.aibase.com/zh/news/20491)
 

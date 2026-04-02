@@ -1,4 +1,4 @@
-# ChatExcel获近千万天使轮融资，全链路AI DataAgent从数据获取到价值交易打造商业闭环平台
+﻿# ChatExcel获近千万天使轮融资，全链路AI DataAgent从数据获取到价值交易打造商业闭环平台
 
 本文转载自： [ChatExcel获近千万天使轮融资，全链路AI DataAgent从数据获取到价值交易打造商业闭环平台](https://mp.weixin.qq.com/s/1SX6jKO-nfzJKiFxsgIJxQ)
 

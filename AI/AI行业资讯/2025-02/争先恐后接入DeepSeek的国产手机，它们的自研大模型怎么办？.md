@@ -1,4 +1,4 @@
-# 争先恐后接入DeepSeek的国产手机，它们的自研大模型怎么办？
+﻿# 争先恐后接入DeepSeek的国产手机，它们的自研大模型怎么办？
 
 ![](https://img.36krcdn.com/hsossms/20250212/v2_19e6187cb220427982fe02392f6ce62e@46958_oswg55096oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1)
 

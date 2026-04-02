@@ -1,4 +1,4 @@
-# Vibe Coding 效率提升技巧
+﻿# Vibe Coding 效率提升技巧
 
 > 讓你的 AI 開發效率提升 10 倍
 

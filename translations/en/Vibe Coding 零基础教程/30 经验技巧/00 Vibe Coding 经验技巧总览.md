@@ -1,8 +1,8 @@
-# Vibe Coding Tips and Tricks Overview
+﻿# Vibe Coding Tips and Tricks Overview
 
 > Key skills to enhance AI development efficiency and quality
 
-Hello, I'm Programmer Yupi, a former Tencent full-stack developer and an [AI programming content creator](https://space.bilibili.com/12890453) with over 2 million followers across platforms. I'm also the creator of more than 10 self-developed products including [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I'm Programmer Yupi, a former Tencent full-stack developer and an [AI programming content creator](https://space.bilibili.com/12890453) with over 2 million followers across platforms. I'm also the creator of more than 10 self-developed products including [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 If you've completed the [Essential Basics] learning and built your first project, congratulations — you've stepped through the door of Vibe Coding.
 
@@ -71,7 +71,7 @@ This section covers all aspects of Vibe Coding from entry to mastery, organized 
 
 All content is beginner-friendly. Even without programming knowledge, you can understand and apply it. Recommended to learn sequentially, or you can directly consult specific articles for particular problems.
 
-💡 This section will be continuously updated with more practical tips and experience sharing. [Bookmark this page](https://ai.codefather.cn/) to check for new content.
+💡 This section will be continuously updated with more practical tips and experience sharing. [Bookmark this page](/) to check for new content.
 
 ## 4. How to study this section?
 
@@ -98,7 +98,7 @@ These insights are distilled from the practices of many Vibe Coding experts and 
 
 ## Recommended Resources
 
-1) Yupi AI Navigation: [Comprehensive AI resources, latest AI news, free AI tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation: [Comprehensive AI resources, latest AI news, free AI tutorials]()
 
 2) Programming Navigation Learning Community: [Learning paths, programming tutorials, practical projects, job hunting guides, Q&A](https://www.codefather.cn)
 

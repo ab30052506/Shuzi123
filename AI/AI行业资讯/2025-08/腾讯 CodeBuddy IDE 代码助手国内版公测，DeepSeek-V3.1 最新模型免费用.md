@@ -1,4 +1,4 @@
-# 腾讯 CodeBuddy IDE 代码助手国内版公测，DeepSeek-V3.1 最新模型免费用
+﻿# 腾讯 CodeBuddy IDE 代码助手国内版公测，DeepSeek-V3.1 最新模型免费用
 
 本文转载自： [腾讯 CodeBuddy IDE 代码助手国内版公测，DeepSeek-V3.1 最新模型免费用](https://www.ithome.com/0/877/258.htm)
 

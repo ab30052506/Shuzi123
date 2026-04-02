@@ -1,4 +1,4 @@
-# Vibe Coding Context Management Techniques
+﻿# Vibe Coding Context Management Techniques
 
 > Making AI Truly Understand Your Project
 

@@ -1,4 +1,4 @@
-# Vibe Coding Project Development Process
+﻿# Vibe Coding Project Development Process
 
 > The Complete Vibe Coding Workflow from Idea to Product
 

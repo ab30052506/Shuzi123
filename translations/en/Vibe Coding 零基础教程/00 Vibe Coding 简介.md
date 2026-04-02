@@ -1,6 +1,6 @@
-# Introduction to Vibe Coding
+﻿# Introduction to Vibe Coding
 
-Hello, I’m Yupi, a former full-stack developer at Tencent and an [AI programming blogger](https://space.bilibili.com/12890453) with over 2 million followers across platforms. I’m also the creator of more than 10 self-developed products, including [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I’m Yupi, a former full-stack developer at Tencent and an [AI programming blogger](https://space.bilibili.com/12890453) with over 2 million followers across platforms. I’m also the creator of more than 10 self-developed products, including [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 If you’ve ever wanted to learn programming but were discouraged by complex syntax and difficult concepts; or if you’re a traditional programmer tired of repetitive code; or if you have great ideas and want to quickly develop and monetize your own product—then congratulations! My tutorial series, **"Vibe Coding: Zero to Hero"**, might be just what you need.
 

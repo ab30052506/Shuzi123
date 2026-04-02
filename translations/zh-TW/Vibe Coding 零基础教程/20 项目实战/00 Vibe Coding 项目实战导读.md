@@ -1,9 +1,9 @@
-# Vibe Coding 專案實戰導讀
+﻿# Vibe Coding 專案實戰導讀
 
 > 從 0 到 1 構建真實專案
 
 
-你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航](https://ai.codefather.cn) 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
+你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航]() 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
 
 如果你已經看完了【基礎必讀】的內容，並且成功做出了第一個網頁應用，那麼恭喜你 —— 你已經邁出了 Vibe Coding 最關鍵的一步！
 
@@ -103,7 +103,7 @@
 
 ## 推薦資源
 
-1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程](https://ai.codefather.cn)
+1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程]()
 
 2）程式設計導航學習圈：[學習路線、程式設計教程、實戰專案、求職寶典、交流答疑](https://www.codefather.cn)
 

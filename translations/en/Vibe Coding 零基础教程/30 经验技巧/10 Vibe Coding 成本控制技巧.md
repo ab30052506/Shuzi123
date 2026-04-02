@@ -1,4 +1,4 @@
-# Vibe Coding Cost Control Tips
+﻿# Vibe Coding Cost Control Tips
 
 > Make every penny count
 

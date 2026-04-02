@@ -1,4 +1,4 @@
-# Gemini CLI: Hands-on Review of Google's Free AI Command Line Tool
+﻿# Gemini CLI: Hands-on Review of Google's Free AI Command Line Tool
 
 Hi, I'm Yupi.
 

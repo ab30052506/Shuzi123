@@ -1,4 +1,4 @@
-# OpenClaw 实战 - 用 GLM-5 打造你的 AI 伴侣
+﻿# OpenClaw 实战 - 用 GLM-5 打造你的 AI 伴侣
 
 > 本篇教程带你实战使用 OpenClaw + GLM-5 打造属于你的个性化 AI 伴侣。
 

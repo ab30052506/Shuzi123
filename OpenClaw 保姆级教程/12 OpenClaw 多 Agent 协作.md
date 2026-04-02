@@ -1,4 +1,4 @@
-# OpenClaw 多 Agent 协作
+﻿# OpenClaw 多 Agent 协作
 
 > 组建龙虾军团，子 Agent 和多 Agent 玩法全解析
 
@@ -328,7 +328,7 @@ openclaw gateway restart
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

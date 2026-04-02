@@ -1,4 +1,4 @@
-## DeepSeek配合KIMI，自动生成PPT，感觉自己要失业了！
+﻿## DeepSeek配合KIMI，自动生成PPT，感觉自己要失业了！
 
 
 之前跟大家分享了如何将DeepSeek放在Excel表格中，有粉丝就能到能用DeepSeek来生成PPT吗？

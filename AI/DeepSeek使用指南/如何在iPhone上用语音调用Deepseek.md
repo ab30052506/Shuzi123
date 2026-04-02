@@ -1,4 +1,4 @@
-## 如何在iPhone上用语音调用Deepseek
+﻿## 如何在iPhone上用语音调用Deepseek
 
 
 使用iPhone的小伙伴注意了，现在可以用语言直接调用Deepseek，快捷、高效，一起来看怎么操作：

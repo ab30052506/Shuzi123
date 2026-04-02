@@ -1,4 +1,4 @@
-# Gemini CLI：Google 的免費 AI 命令列工具實測
+﻿# Gemini CLI：Google 的免費 AI 命令列工具實測
 
 你好，我是魚皮。
 

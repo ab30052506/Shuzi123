@@ -1,4 +1,4 @@
-# Vibe Coding Code Refactoring Techniques
+﻿# Vibe Coding Code Refactoring Techniques
 
 > Avoiding AI-generated spaghetti code chaos
 

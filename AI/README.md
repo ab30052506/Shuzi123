@@ -1,6 +1,6 @@
-# AI
+﻿# AI
 
-> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 ## 鱼皮的 AI 指南
 
@@ -382,5 +382,5 @@
 
 [普通人能用DeepSeek做什么？20个实用建议](DeepSeek使用指南/普通人能用DeepSeek做什么？20个实用建议.md)
 
-> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 

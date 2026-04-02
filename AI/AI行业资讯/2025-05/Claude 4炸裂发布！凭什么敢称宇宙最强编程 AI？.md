@@ -1,4 +1,4 @@
-# Claude 4炸裂发布！凭什么敢称宇宙最强编程 AI？
+﻿# Claude 4炸裂发布！凭什么敢称宇宙最强编程 AI？
 
 5 月 23 日，Claude 官方宣布推出下一代 Claude 模型：Claude Sonnet 4 和 Claude Opus 4，直接 **在全世界的 AI 圈掀起了新的风暴**！
 

@@ -4,8 +4,8 @@ import footer from "./footer";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
-const author = "程序员鱼皮";
-const domain = "https://ai.codefather.cn";
+const author = "数字工具导航";
+const domain = "https://shuzi123.vercel.app";
 const tags = [
   "ai",
   "deepseek",
@@ -22,9 +22,9 @@ const tags = [
 ];
 
 export default defineConfig({
-  title: "鱼皮 AI 知识库",
+  title: "AI 工具教程导航",
   description:
-    "鱼皮 AI 知识库 - 免费 DeepSeek 教程｜工具站｜资源库，是一站式开源免费的人工智能知识分享平台，汇集 Deepseek、GPT 等热门 AI 工具介绍、使用指南、技巧分享、应用场景、AI 变现、行业资讯、教程资源汇总，提供系统化的 AI 教程、精选 AI 资源，助你快速掌握 AI 技术，成为 AI 专家！",
+    "AI 工具教程导航 - 一站式AI工具使用指南，汇总最新AI工具介绍、使用教程、技巧分享，让你快速上手AI，利用AI提高效率赚钱。",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -83,7 +83,7 @@ export default defineConfig({
         author: (_, $site) => $site.themeConfig.author || author,
         tags: ($page) => $page.frontmatter.tags || tags,
         type: ($page) => "article",
-        url: (_, $site, path) => ($site.themeConfig.domain || domain || "") + path,
+        url: (_, $site, path) => ($site.themeConfig.domain || domain || "https://shuzi123.vercel.app") + path,
         image: ($page, $site) =>
           $page.frontmatter.image &&
           (($site.themeConfig.domain && !$page.frontmatter.image.startsWith("http")) || "") + $page.frontmatter.image,
@@ -95,7 +95,7 @@ export default defineConfig({
     [
       "sitemap",
       {
-        hostname: domain,
+        hostname: "https://shuzi123.vercel.app",
       },
     ],
     // https://github.com/IOriens/vuepress-plugin-baidu-autopush
@@ -130,7 +130,7 @@ export default defineConfig({
     lastUpdated: "最近更新",
 
     // GitHub 仓库位置
-    repo: "liyupi/ai-guide",
+    repo: "ab30052506/Shuzi123",
     docsBranch: "master",
 
     // 编辑链接

@@ -1,4 +1,4 @@
-# Vibe Coding Security Tips
+﻿# Vibe Coding Security Tips
 
 > Protect Your Projects and API Keys
 
@@ -485,7 +485,7 @@ You've worked hard learning, treat yourself to a chicken leg 🍗, and then get 
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

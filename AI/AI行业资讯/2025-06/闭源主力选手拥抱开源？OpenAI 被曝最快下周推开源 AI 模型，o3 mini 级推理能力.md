@@ -1,4 +1,4 @@
-# 闭源主力选手拥抱开源？OpenAI 被曝最快下周推开源 AI 模型，o3 mini 级推理能力
+﻿# 闭源主力选手拥抱开源？OpenAI 被曝最快下周推开源 AI 模型，o3 mini 级推理能力
 本文转载自： [闭源主力选手拥抱开源？OpenAI 被曝最快下周推开源 AI 模型，o3 mini 级推理能力](https://www.ithome.com/0/867/065.htm)
 
 感谢IT之家网友 [咩咩洋](https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1520790) 的线索投递！

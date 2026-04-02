@@ -1,4 +1,4 @@
-# TRAE SOLO: AI-Driven Full-Stack Development Tool
+﻿# TRAE SOLO: AI-Driven Full-Stack Development Tool
 
 Hi, I'm Yupi.
 

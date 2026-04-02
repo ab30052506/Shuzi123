@@ -1,9 +1,9 @@
-# Vibe Coding Project Practice Guide
+﻿# Vibe Coding Project Practice Guide
 
 > From 0 to 1: Building Real Projects
 
 
-Hello, I'm Yupi, a former Tencent full-stack developer, and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I'm also the creator of over 10 self-developed products, including [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I'm Yupi, a former Tencent full-stack developer, and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I'm also the creator of over 10 self-developed products, including [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 If you've already completed the 【Basic Essentials】section and successfully built your first web application, congratulations — you've taken the most crucial step in Vibe Coding!
 
@@ -103,7 +103,7 @@ You've got this! 💪
 
 ## Recommended Resources
 
-1）Yupi's AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1）Yupi's AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2）Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guides, Q&A](https://www.codefather.cn)
 

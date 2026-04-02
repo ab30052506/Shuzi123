@@ -1,4 +1,4 @@
-# 点赞收藏！DeepSeek在GitHub星标量已超OpenAI
+﻿# 点赞收藏！DeepSeek在GitHub星标量已超OpenAI
 
 国产大模型深度求索（DeepSeek）正在与大洋彼岸的人工智能巨头OpenAI“掰手腕”。
 

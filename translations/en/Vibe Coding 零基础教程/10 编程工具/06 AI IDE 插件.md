@@ -1,4 +1,4 @@
-Here's the translated Markdown content:
+﻿Here's the translated Markdown content:
 
 # AI IDE Plugins
 
@@ -191,7 +191,7 @@ Keep coding!
 
 ## Recommended Resources
 
-1) Yupi's AI Navigation Site: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi's AI Navigation Site: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Coding Tutorials, Practical Projects, Job Hunting Guides, Q&A](https://www.codefather.cn)
 

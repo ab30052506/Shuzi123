@@ -1,8 +1,8 @@
-# Getting Started with Vibe Coding
+﻿# Getting Started with Vibe Coding
 
 > Create and deploy your first web app in 10 minutes
 
-Hello, I’m Yupi, a former full-stack developer at Tencent and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I’m also the creator of over 10 self-developed products like [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I’m Yupi, a former full-stack developer at Tencent and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I’m also the creator of over 10 self-developed products like [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 In my previous article, we discussed the philosophy and mindset behind Vibe Coding. Now, it’s time to put it into practice!
 

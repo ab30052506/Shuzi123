@@ -1,4 +1,4 @@
-# OpenCode: Hands-on Review of an Open-Source Free AI Command Line Tool
+﻿# OpenCode: Hands-on Review of an Open-Source Free AI Command Line Tool
 
 Hello everyone, I'm programmer Yupi.
 

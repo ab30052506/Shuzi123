@@ -1,4 +1,4 @@
-# TRAE - AI Learning Hero Mini Program Project
+﻿# TRAE - AI Learning Hero Mini Program Project
 
 This is a Learning Hero WeChat Mini Program project that helps users learn any topic through gamification. Users input the topic they want to learn, and the AI automatically generates related knowledge Q&A cards, allowing learning through multiple-choice questions.
 

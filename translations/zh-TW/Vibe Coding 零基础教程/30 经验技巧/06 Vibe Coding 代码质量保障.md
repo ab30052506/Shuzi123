@@ -1,4 +1,4 @@
-# Vibe Coding 程式碼品質保障
+﻿# Vibe Coding 程式碼品質保障
 
 > 如何確保 AI 生成的程式碼品質
 

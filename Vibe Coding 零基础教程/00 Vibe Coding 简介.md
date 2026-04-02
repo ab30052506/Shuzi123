@@ -1,6 +1,6 @@
-# Vibe Coding 简介
+﻿# Vibe Coding 简介
 
-你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航](https://ai.codefather.cn) 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
+你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航]() 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
 
 如果你曾经想学编程，但被复杂的语法、难懂的概念劝退过；或者你是一个传统程序员，每天被重复的代码折磨得想摔键盘；再或者你有不错的创意，想要快速开发上线自己的产品并盈利。
 
@@ -523,7 +523,7 @@ AI 加上了历史记录。
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

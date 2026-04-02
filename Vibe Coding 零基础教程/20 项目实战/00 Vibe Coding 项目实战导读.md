@@ -1,9 +1,9 @@
-# Vibe Coding 项目实战导读
+﻿# Vibe Coding 项目实战导读
 
 > 从 0 到 1 构建真实项目
 
 
-你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航](https://ai.codefather.cn) 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
+你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航]() 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
 
 如果你已经看完了【基础必读】的内容，并且成功做出了第一个网页应用，那么恭喜你 —— 你已经迈出了 Vibe Coding 最关键的一步！
 
@@ -103,7 +103,7 @@
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

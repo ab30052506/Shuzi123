@@ -1,10 +1,10 @@
-# Vibe Coding FAQs and Solutions
+﻿# Vibe Coding FAQs and Solutions
 
-Hello, I'm Yupi, a former Tencent full-stack developer with over 2 million followers as an [AI programming blogger](https://space.bilibili.com/12890453). I'm also the creator of more than 10 self-developed products, including [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I'm Yupi, a former Tencent full-stack developer with over 2 million followers as an [AI programming blogger](https://space.bilibili.com/12890453). I'm also the creator of more than 10 self-developed products, including [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 Previously, I systematically explained various techniques and methods of Vibe Coding. In this article, I will summarize the most common issues and solutions encountered in Vibe Coding practices.
 
-You can treat this as a quick reference manual. When you encounter a problem, check here first—you might find the answer. If it's not here, you can also ask questions on my [Programming Navigation](https://www.codefather.cn/) or discuss with other AI enthusiasts on [Yupi AI Navigation](https://ai.codefather.cn/) to find answers.
+You can treat this as a quick reference manual. When you encounter a problem, check here first—you might find the answer. If it's not here, you can also ask questions on my [Programming Navigation](https://www.codefather.cn/) or discuss with other AI enthusiasts on [Yupi AI Navigation](/) to find answers.
 
 ## Understanding Vibe Coding Concepts
 

@@ -1,4 +1,4 @@
-# Vibe Coding 个人工具开发
+﻿# Vibe Coding 个人工具开发
 
 
 你好，我是鱼皮。
@@ -507,7 +507,7 @@ AI 会用 Audio 对象来播放音频文件。
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

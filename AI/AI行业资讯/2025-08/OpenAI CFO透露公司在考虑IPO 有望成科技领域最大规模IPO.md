@@ -1,4 +1,4 @@
-# OpenAI CFO透露公司在考虑IPO 有望成科技领域最大规模IPO
+﻿# OpenAI CFO透露公司在考虑IPO 有望成科技领域最大规模IPO
 
 本文转载自： [OpenAI CFO透露公司在考虑IPO 有望成科技领域最大规模IPO](https://www.techweb.com.cn/world/2025-08-24/2964926.shtml)
 

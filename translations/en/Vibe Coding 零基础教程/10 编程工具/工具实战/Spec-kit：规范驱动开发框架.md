@@ -1,4 +1,4 @@
-# Spec-kit: Specification-Driven Development Framework
+﻿# Spec-kit: Specification-Driven Development Framework
 
 > Enable AI to develop projects following professional processes
 
@@ -226,7 +226,7 @@ In upcoming articles, I'll continue to introduce other standardized development 
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [AI Resource Collection, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

@@ -1,4 +1,4 @@
-# Vibe Coding Website Beautification Tips
+﻿# Vibe Coding Website Beautification Tips
 
 > 7 Methods to Remove the AI Flavor from Your Website
 
@@ -96,7 +96,7 @@ There are 4 specific ways to do this:
 Just tell AI:
 
 ```markdown
-Please visit ai.codefather.cn, extract its color scheme, font selection, and layout structure, then generate a website in a similar style.
+Please visit shuzi123.vercel.app, extract its color scheme, font selection, and layout structure, then generate a website in a similar style.
 ```
 
 AI will visit the website and learn from it.

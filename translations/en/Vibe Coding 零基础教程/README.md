@@ -1,10 +1,10 @@
-# Fish Skin's Vibe Coding Zero-Basics Tutorial
+﻿# Fish Skin's Vibe Coding Zero-Basics Tutorial
 
 Hello everyone, I'm programmer Fish Skin.
 
 Nowadays, Vibe Coding has taken the internet by storm. Not just programmers, but even designers, product managers, operations specialists, and people with no technical background at all are using Vibe Coding to realize their ideas, creating products with AI and monetizing them.
 
-To help everyone keep up with the times, I've single-handedly created a completely free and open-source [Vibe Coding Zero-Basics Tutorial](https://ai.codefather.cn/vibe)!
+To help everyone keep up with the times, I've single-handedly created a completely free and open-source [Vibe Coding Zero-Basics Tutorial](/vibe)!
 
 With thousands of images and hundreds of thousands of words, combining my 2.5 years of AI programming experience + project development experience + product monetization experience, I have just one goal: **Help anyone quickly master Vibe Coding. Even with zero background, you can rapidly develop and launch your own product to profitability.**
 
@@ -13,7 +13,7 @@ With thousands of images and hundreds of thousands of words, combining my 2.5 ye
 To brag a little, I dare say this free tutorial outperforms 90% of paid Vibe Coding content out there, given the amount of time I've invested.
 
 - Tutorial documentation open-source address: https://github.com/liyupi/ai-guide
-- Online reading address: https://ai.codefather.cn/vibe
+- Online reading address: /vibe
 
 Feel free to Star, bookmark, and share with friends!
 

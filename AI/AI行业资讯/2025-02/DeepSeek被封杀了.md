@@ -1,4 +1,4 @@
-# DeepSeek被封杀了
+﻿# DeepSeek被封杀了
 DeepSeek在全球范围内热度不减少，7天用户数破亿，而且还在快速增长。但是，一股封禁DeepSeek的风潮席卷而来，多个国家参与其中。
 
 ![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2025%2F0211%2Fdd43d6e0j00sribvo0057d000ic00c7p.jpg&thumbnail=660x2147483647&quality=80&type=jpg)

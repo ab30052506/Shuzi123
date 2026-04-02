@@ -1,6 +1,6 @@
-# AI项目教程
+﻿# AI项目教程
 
-> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+> 你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 [AI 海龟汤项目教程](AI%20海龟汤项目教程.md)
 

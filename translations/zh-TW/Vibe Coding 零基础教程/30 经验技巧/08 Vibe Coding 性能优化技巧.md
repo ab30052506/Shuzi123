@@ -1,4 +1,4 @@
-# Vibe Coding 效能優化技巧
+﻿# Vibe Coding 效能優化技巧
 
 > 讓你的應用跑得更快
 

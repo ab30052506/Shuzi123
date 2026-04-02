@@ -1,4 +1,4 @@
-# Vibe Coding Conversation Engineering Techniques
+﻿# Vibe Coding Conversation Engineering Techniques
 
 > The Art of Iterative Dialogue
 
@@ -339,7 +339,7 @@ I want to learn [technology/concept]. Please:
 
 These templates can help you start conversations quickly and save time.
 
-More AI prompt templates can be found on Yupi's [AI Resource Navigation Website](https://ai.codefather.cn/prompt):
+More AI prompt templates can be found on Yupi's [AI Resource Navigation Website](/prompt):
 
 ![](https://pic.yupi.icu/1/image-20260104174539349.png)
 

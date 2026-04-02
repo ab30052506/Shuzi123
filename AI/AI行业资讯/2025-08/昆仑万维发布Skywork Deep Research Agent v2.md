@@ -1,4 +1,4 @@
-# 昆仑万维发布Skywork Deep Research Agent v2
+﻿# 昆仑万维发布Skywork Deep Research Agent v2
 
 本文转载自： [昆仑万维发布Skywork Deep Research Agent v2](https://news.aibase.com/zh/news/20505)
 

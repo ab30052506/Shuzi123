@@ -2,7 +2,7 @@ import { NavItem } from "vuepress/config";
 
 export default [
   {
-    text: "AI 项目",
+    text: "AI 项目实战",
     items: [
       {
         text: "AI 海龟汤项目教程",
@@ -21,7 +21,7 @@ export default [
         link: "/ai-cursor-开发一个肺活量测试器/",
       },
       {
-        text: "🔥 企业级项目：开发 AI 恋爱大师应用 + 拥有自主规划能力的超级智能体",
+        text: "🔥 企业级项目：开发 AI 恋爱大师应用",
         link: "/🔥-企业级项目-开发-ai-恋爱大师应用-拥有自主规划能力的超级智能体/",
       },
     ],
@@ -56,15 +56,11 @@ export default [
     ],
   },
   {
-    text: "🔥编程学习",
-    link: "https://www.codefather.cn/",
+    text: "Vibe Coding",
+    link: "/_00-vibe-coding-简介/",
   },
   {
-    text: "AI 面试题库",
-    link: "https://www.mianshiya.com/?category=ai",
-  },
-  {
-    text: "作者",
-    link: "/作者/",
+    text: "OpenClaw",
+    link: "/_00-openclaw-保姆级教程导读/",
   },
 ] as NavItem[];

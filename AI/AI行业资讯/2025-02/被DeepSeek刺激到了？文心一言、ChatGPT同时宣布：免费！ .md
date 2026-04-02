@@ -1,4 +1,4 @@
-# 被DeepSeek刺激到了？文心一言、ChatGPT同时宣布：免费！ 
+﻿# 被DeepSeek刺激到了？文心一言、ChatGPT同时宣布：免费！ 
 
 两大闭源大模型都要全面免费了。DeepSeek影响加速外溢，AI竞逐再度向“价格战”逼近，文心一言、ChatGPT同时宣布将免费。
 

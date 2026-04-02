@@ -1,4 +1,4 @@
-## 跨境电商试练 AI，DeepSeek 取代了 ChatGPT
+﻿## 跨境电商试练 AI，DeepSeek 取代了 ChatGPT
 
 “接下来半年我们会看到 AI 应用在国内的蓬勃发展，DeepSeek 会带来 AI 应用的枝繁叶茂。”聊起 DeepSeek，跨境电商商家钱大柱这样说道。
 

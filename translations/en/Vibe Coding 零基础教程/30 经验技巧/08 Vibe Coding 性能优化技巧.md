@@ -1,4 +1,4 @@
-# Vibe Coding Performance Optimization Tips
+﻿# Vibe Coding Performance Optimization Tips
 
 > Make Your Application Run Faster
 

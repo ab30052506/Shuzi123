@@ -1,4 +1,4 @@
-# Vibe Coding 效率提升技巧
+﻿# Vibe Coding 效率提升技巧
 
 > 让你的 AI 开发效率提升 10 倍
 
@@ -632,7 +632,7 @@ MCP（Model Context Protocol，模型上下文协议）是 2024 年底由 Anthro
 - Notion MCP：连接 Notion，让 AI 能读写你的笔记和文档，方便整理和搜索信息。
 - Context7 MCP：增强 AI 对代码库的理解，提供更精准的代码分析和建议。
 
-这些 MCP 服务器可以在 Claude Desktop、Claude Code、Cursor 等工具中配置使用，具体的安装和配置方法可以参考各个 MCP 服务器的文档。还有更多 MCP 你可以在 [鱼皮的 AI 资源导航网](https://ai.codefather.cn/) 或者 [MCP 大全网站](https://mcp.so/) 找到。
+这些 MCP 服务器可以在 Claude Desktop、Claude Code、Cursor 等工具中配置使用，具体的安装和配置方法可以参考各个 MCP 服务器的文档。还有更多 MCP 你可以在 [鱼皮的 AI 资源导航网](/) 或者 [MCP 大全网站](https://mcp.so/) 找到。
 
 MCP 的强大之处在于，它让 AI 不再只是一个代码生成器，而是一个真正的全能开发助手，能帮你完成开发过程中的各种任务。如果你经常使用 Claude 或 Cursor，强烈建议配置几个常用的 MCP 服务器，能大大提升效率。
 
@@ -644,7 +644,7 @@ MCP 的强大之处在于，它让 AI 不再只是一个代码生成器，而是
 
 除了自己整理，还可以参考一些现成的资源：
 
-- [鱼皮的 AI 资源导航](https://ai.codefather.cn/prompt)：收录了大量提示词模板，涵盖各种场景。
+- [鱼皮的 AI 资源导航](/prompt)：收录了大量提示词模板，涵盖各种场景。
 - [Cursor Directory](https://cursor.directory/rules)：社区贡献的 Cursor Rules 集合，有各种语言和框架的规则模板。
 - [GitHub awesome-prompts](https://github.com/f/awesome-chatgpt-prompts)：收录了大量优质提示词，虽然不是专门针对编程的，但很多思路可以借鉴。
 
@@ -782,7 +782,7 @@ MCP 的强大之处在于，它让 AI 不再只是一个代码生成器，而是
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

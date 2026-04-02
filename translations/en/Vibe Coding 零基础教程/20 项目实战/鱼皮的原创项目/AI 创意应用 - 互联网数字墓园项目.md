@@ -1,4 +1,4 @@
-# AI Creative Application - Internet Digital Graveyard Project
+﻿# AI Creative Application - Internet Digital Graveyard Project
 
 This project is an interesting Internet Digital Graveyard website, commemorating those once glorious but now closed internet products, including Kaixin001, Qvod, Qianqian Jingting, Tudou, and more.
 
@@ -76,7 +76,7 @@ Did these websites stir any memories for you? Which product do you think is the 
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

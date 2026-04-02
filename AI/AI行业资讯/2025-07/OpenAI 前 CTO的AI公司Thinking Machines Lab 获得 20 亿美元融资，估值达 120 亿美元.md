@@ -1,4 +1,4 @@
-# OpenAI 前 CTO的AI公司Thinking Machines Lab 获得 20 亿美元融资，估值达 120 亿美元
+﻿# OpenAI 前 CTO的AI公司Thinking Machines Lab 获得 20 亿美元融资，估值达 120 亿美元
 
 本文转载自： [OpenAI 前 CTO的AI公司Thinking Machines Lab 获得 20 亿美元融资，估值达 120 亿美元](https://news.aibase.com/zh/news/19708)
 

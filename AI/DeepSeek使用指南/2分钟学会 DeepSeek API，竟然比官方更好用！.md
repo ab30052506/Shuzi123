@@ -1,4 +1,4 @@
-# 2分钟学会 DeepSeek API，竟然比官方更好用！
+﻿# 2分钟学会 DeepSeek API，竟然比官方更好用！
 
 > 建议观看视频版教程：[https://bilibili.com/video/BV1zVAHesEv7](https://bilibili.com/video/BV1zVAHesEv7)
 

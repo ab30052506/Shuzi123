@@ -1,4 +1,4 @@
-# Kimi K2 - AI 文件閱讀助手專案實戰
+﻿# Kimi K2 - AI 文件閱讀助手專案實戰
 
 本專案是一個 AI 文件閱讀助手網站，可以幫你快速讀懂各種複雜的文件（論文、技術文件、PDF 等），還能幫你管理文件。
 
@@ -157,7 +157,7 @@ $env:ANTHROPIC_SMALL_FAST_MODEL="kimi-k2-turbo-preview"
 
 ## 推薦資源
 
-1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程](https://ai.codefather.cn)
+1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程]()
 
 2）程式設計導航學習圈：[學習路線、程式設計教程、實戰專案、求職寶典、交流答疑](https://www.codefather.cn)
 

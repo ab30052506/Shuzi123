@@ -1,4 +1,4 @@
-# Vercel AI Gateway - Hands-on Project for AI Stress Relief
+﻿# Vercel AI Gateway - Hands-on Project for AI Stress Relief
 
 This article focuses not on development, but on learning the concept and usage of AI gateways. Through comic-style explanations and the Vibe Coding project, you'll understand how to flexibly switch between different models in AI applications using the Vercel AI Gateway, reducing development costs and maintenance difficulties. Suitable for those who want to learn AI gateway technology and need to quickly integrate multiple AI models.
 
@@ -230,7 +230,7 @@ Yupi coos: So this is your excuse for being too lazy to give me a thumbs up???
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

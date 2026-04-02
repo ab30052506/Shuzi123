@@ -1,10 +1,10 @@
-# 鱼皮 Vibe Coding 零基础入门教程
+﻿# 鱼皮 Vibe Coding 零基础入门教程
 
 大家好，我是程序员鱼皮。
 
 如今 Vibe Coding 已经火遍全网，不仅是程序员，连设计师、产品运营、甚至完全不懂技术的人都开始用 Vibe Coding 实现自己的想法，用 AI 做出了自己的产品并盈利变现。
 
-为了帮大家紧跟时代，我一人爆肝，创作了一套 [《Vibe Coding 零基础入门教程》](https://ai.codefather.cn/vibe)，完全免费开源！
+为了帮大家紧跟时代，我一人爆肝，创作了一套 [《Vibe Coding 零基础入门教程》](/vibe)，完全免费开源！
 
 上千张图、几十万字，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，我的目标只有一个：**帮助任何人快速掌握 Vibe Coding，哪怕零基础，也能快速开发上线自己的产品并盈利。**
 
@@ -13,7 +13,7 @@
 臭不要脸一下，我敢说这套免费教程吊打 90% 的付费 Vibe Coding 内容，毕竟我投入了足够多的时间。
 
 - 教程文档开源地址：https://github.com/liyupi/ai-guide
-- 教程在线阅读地址：https://ai.codefather.cn/vibe
+- 教程在线阅读地址：/vibe
 
 欢迎大家 Star 收藏、分享给身边的朋友！
 
@@ -119,11 +119,11 @@
 
 📖 教程文档开源地址：https://github.com/liyupi/ai-guide
 
-🌐 教程在线阅读地址：https://ai.codefather.cn/vibe
+🌐 教程在线阅读地址：/vibe
 
 🎬 作者的视频合集：https://space.bilibili.com/12890453
 
-💬 交流反馈：欢迎在 [AI 导航社区](https://ai.codefather.cn) 提问
+💬 交流反馈：欢迎在 [AI 导航社区]() 提问
 
 
 

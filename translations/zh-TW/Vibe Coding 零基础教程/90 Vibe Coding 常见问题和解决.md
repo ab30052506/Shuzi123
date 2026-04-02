@@ -1,11 +1,11 @@
-# Vibe Coding 常見問題和解決
+﻿# Vibe Coding 常見問題和解決
 
 
-你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航](https://ai.codefather.cn) 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
+你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航]() 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
 
 之前我系統講解了 Vibe Coding 的各種技巧和方法，這篇文章我來匯總一下大家在 Vibe Coding 實踐中最常遇到的問題和解決方案。
 
-你可以把它當作速查手冊。遇到問題時，先來這裡找找，說不定就能找到答案。如果這裡沒有，也可以去我的 [程式設計導航](https://www.codefather.cn/) 提問，或者在 [魚皮 AI 導航](https://ai.codefather.cn/) 中跟其他 AI 愛好者交流並尋找答案。
+你可以把它當作速查手冊。遇到問題時，先來這裡找找，說不定就能找到答案。如果這裡沒有，也可以去我的 [程式設計導航](https://www.codefather.cn/) 提問，或者在 [魚皮 AI 導航](/) 中跟其他 AI 愛好者交流並尋找答案。
 
 
 

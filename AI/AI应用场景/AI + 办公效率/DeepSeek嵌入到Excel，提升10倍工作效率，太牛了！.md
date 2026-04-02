@@ -1,4 +1,4 @@
-## DeepSeek嵌入到Excel，提升10倍工作效率，太牛了！
+﻿## DeepSeek嵌入到Excel，提升10倍工作效率，太牛了！
 
 
 昨天跟大家分享了DeepSeek的简单用法，有粉丝就问道：能将DeepSeek嵌入到Excel吗？

@@ -1,6 +1,6 @@
-# Vibe Coding 簡介
+﻿# Vibe Coding 簡介
 
-你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航](https://ai.codefather.cn) 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
+你好，我是程式設計師魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 程式設計博主](https://space.bilibili.com/12890453)，也是 [AI 導航]() 和 [程式設計導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
 
 如果你曾經想學程式設計，但被複雜的語法、難懂的概念勸退過；或者你是一個傳統程式設計師，每天被重複的程式碼折磨得想摔鍵盤；再或者你有不錯的創意，想要快速開發上線自己的產品並盈利。
 

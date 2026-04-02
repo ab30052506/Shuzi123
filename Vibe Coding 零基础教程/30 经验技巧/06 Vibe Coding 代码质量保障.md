@@ -1,4 +1,4 @@
-# Vibe Coding 代码质量保障
+﻿# Vibe Coding 代码质量保障
 
 > 如何确保 AI 生成的代码质量
 
@@ -718,7 +718,7 @@ npx husky init
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

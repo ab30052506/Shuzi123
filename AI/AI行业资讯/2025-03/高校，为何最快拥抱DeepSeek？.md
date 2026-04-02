@@ -1,4 +1,4 @@
-## 高校，为何最快拥抱 DeepSeek？
+﻿## 高校，为何最快拥抱 DeepSeek？
 
 ![](https://imgpai.thepaper.cn/pph/newpai/image/20250314/96934c52-8704-483a-949a-110c43a04a64.jpg)
 

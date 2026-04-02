@@ -1,4 +1,4 @@
-# OpenClaw 安全指南
+﻿# OpenClaw 安全指南
 
 > 玩 OpenClaw 的安全红线和避坑指南
 
@@ -109,7 +109,7 @@ API Key、SSH 凭证别写进 prompt 或配置文件里。安全公司测过 Ope
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

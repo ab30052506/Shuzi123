@@ -1,4 +1,4 @@
-# OpenAI 上线“OpenAI 学院”，已提供数十小时免费 AI 学习资源
+﻿# OpenAI 上线“OpenAI 学院”，已提供数十小时免费 AI 学习资源
 
 2025 年 04 月 02 日 11:03 [TechWeb](https://www.techweb.com.cn/it/2025-04-02/2959052.shtml)
 

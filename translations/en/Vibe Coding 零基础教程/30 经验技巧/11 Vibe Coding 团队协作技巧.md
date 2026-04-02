@@ -1,4 +1,4 @@
-# Vibe Coding Team Collaboration Tips
+﻿# Vibe Coding Team Collaboration Tips
 
 > Collaborating with others using Vibe Coding on projects
 

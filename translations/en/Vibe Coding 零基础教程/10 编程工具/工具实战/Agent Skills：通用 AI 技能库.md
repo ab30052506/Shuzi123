@@ -1,4 +1,4 @@
-# Agent Skills: The Universal AI Skill Library
+﻿# Agent Skills: The Universal AI Skill Library
 
 > Empowering AI to quickly learn new skills
 

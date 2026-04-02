@@ -1,4 +1,4 @@
-# 鱼皮的 AI 指南 - 3、AI 编程技巧
+﻿# 鱼皮的 AI 指南 - 3、AI 编程技巧
 
 > ⭐️ 推荐观看视频版：[https://www.bilibili.com/video/BV1i9Z8YhEja](https://www.bilibili.com/video/BV1i9Z8YhEja/)
 

@@ -1,6 +1,6 @@
-# DeepSeek使用指南
+﻿# DeepSeek使用指南
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 [🔥DeepSeek 小白快速上手指南](🔥DeepSeek%20小白快速上手指南.md)
 
@@ -22,5 +22,5 @@
 
 [普通人也能轻松掌握的 20 个 DeepSeek 高频提示词（2025版）](DeepSeek%20提问技巧/普通人也能轻松掌握的%2020%20个%20DeepSeek%20高频提示词（2025版）.md)
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 

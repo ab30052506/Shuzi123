@@ -1,4 +1,4 @@
-# Vibe Coding Hallucination and Infinite Loop Handling
+﻿# Vibe Coding Hallucination and Infinite Loop Handling
 
 > How to Bring an Out-of-Control AI Back on Track
 

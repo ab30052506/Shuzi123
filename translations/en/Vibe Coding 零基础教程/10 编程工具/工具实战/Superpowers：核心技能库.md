@@ -1,4 +1,4 @@
-# Superpowers: Core Skill Library
+﻿# Superpowers: Core Skill Library
 
 > Empowering AI to Work Like Professional Programmers
 
@@ -176,7 +176,7 @@ We've explored various standardized development tools, and I hope you find the d
 
 ## Recommended Resources
 
-1) Fish Skin AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Fish Skin AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

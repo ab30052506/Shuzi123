@@ -1,4 +1,4 @@
-# Spring AI - AI Super Agent Project in Action
+﻿# Spring AI - AI Super Agent Project in Action
 
 This project is a comprehensive AI super agent tutorial that guides you through developing an AI Love Master application and a super agent with autonomous planning capabilities. Through this project, you'll master the essential AI concepts, practical tools, programming techniques, framework principles, and optimization skills that modern programmers must know.
 
@@ -157,7 +157,7 @@ For more past projects, read [this article](https://mp.weixin.qq.com/s/9dpRTZijz
 
 ## Recommended Resources
 
-1) Yupi's AI navigation site: [AI resource collection, latest AI news, free AI tutorials](https://ai.codefather.cn)
+1) Yupi's AI navigation site: [AI resource collection, latest AI news, free AI tutorials]()
 
 2) Programming Navigation learning circle: [Learning paths, programming tutorials, hands-on projects, career guides, Q&A](https://www.codefather.cn)
 

@@ -1,4 +1,4 @@
-# Vibe Coding 安全防护技巧
+﻿# Vibe Coding 安全防护技巧
 
 > 保护你的项目和 API 密钥
 
@@ -480,7 +480,7 @@ AI 会给你详细的安全分析。
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

@@ -1,4 +1,4 @@
-# OpenClaw 模型选择与切换
+﻿# OpenClaw 模型选择与切换
 
 > 给龙虾选脑子，全局切换和临时切换一网打尽
 
@@ -144,7 +144,7 @@ openclaw config set agents.defaults.model.fallbacks '["zai/glm-5", "qwen/qwen-ma
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

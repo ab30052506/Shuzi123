@@ -1,4 +1,4 @@
-# Vibe Coding AI Application Development
+﻿# Vibe Coding AI Application Development
 
 Hello, I'm Yupi.
 

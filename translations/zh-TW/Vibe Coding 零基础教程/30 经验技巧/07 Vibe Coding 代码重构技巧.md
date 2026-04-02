@@ -1,4 +1,4 @@
-# Vibe Coding 程式碼重構技巧
+﻿# Vibe Coding 程式碼重構技巧
 
 > 避免 AI 生成混亂的義大利麵程式碼
 

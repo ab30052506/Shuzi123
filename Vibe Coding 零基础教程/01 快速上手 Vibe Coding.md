@@ -1,10 +1,10 @@
-# 快速上手 Vibe Coding
+﻿# 快速上手 Vibe Coding
 
 > 10 分钟做出你的第一个网页应用并部署上线
 
 
 
-你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航](https://ai.codefather.cn) 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
+你好，我是程序员鱼皮，前腾讯全栈开发，全网 200 万粉的 [AI 编程博主](https://space.bilibili.com/12890453)，也是 [AI 导航]() 和 [编程导航](https://www.codefather.cn) 等 10+ 自研产品的创造者。
 
 在上一篇文章中，我们聊了 Vibe Coding 的理念和思维方式。现在，是时候动手实践了！
 
@@ -383,7 +383,7 @@ AI 会用通俗易懂的语言给你解释。
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

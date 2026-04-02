@@ -1,4 +1,4 @@
-# Vibe Coding 網站美化技巧
+﻿# Vibe Coding 網站美化技巧
 
 > 7 個方法，讓你的網站告別 AI 味
 
@@ -105,7 +105,7 @@ https://bilibili.com/video/BV1QF6EBiErM
 你只需要跟 AI 說：
 
 ```markdown
-請訪問 ai.codefather.cn，提取它的配色方案、字體選擇和佈局結構，然後生成類似風格的網站。
+請訪問 shuzi123.vercel.app，提取它的配色方案、字體選擇和佈局結構，然後生成類似風格的網站。
 ```
 
 AI 會自己去看那個網站，然後學著做。

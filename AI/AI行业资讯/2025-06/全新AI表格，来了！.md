@@ -1,4 +1,4 @@
-# 全新AI表格，来了！
+﻿# 全新AI表格，来了！
 本文转载自： [全新AI表格，来了！](https://mp.weixin.qq.com/s/NAOnSJa-kRtEloC9XcPv1A)
 
 [![](https://pic.code-nav.cn/post_picture/1610518142000300034/swr81HYsj0PLCObq.webp)](https://demo.aliwork.com/o/7-8-5)

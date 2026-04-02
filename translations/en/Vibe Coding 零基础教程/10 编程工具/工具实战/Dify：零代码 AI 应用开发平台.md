@@ -1,4 +1,4 @@
-# Dify: A No-Code AI Application Development Platform
+﻿# Dify: A No-Code AI Application Development Platform
 
 > Build your AI applications visually
 
@@ -228,7 +228,7 @@ I recommend trying Dify to build a simple AI application, such as a programming 
 
 ## Recommended Resources
 
-1) Yupi's AI Navigation Site: [AI resource directory, latest AI news, free AI tutorials](https://ai.codefather.cn)  
+1) Yupi's AI Navigation Site: [AI resource directory, latest AI news, free AI tutorials]()  
 2) Programming Navigation Learning Circle: [Learning paths, tutorials, projects, job guides, Q&A](https://www.codefather.cn)  
 3) Programmer Interview Cheatsheets: [Internship/campus/social recruitment FAQs, company interview questions](https://www.mianshiya.com)  
 4) Programmer Resume Builder: [Professional templates, rich examples, interview prep](https://www.laoyujianli.com)  

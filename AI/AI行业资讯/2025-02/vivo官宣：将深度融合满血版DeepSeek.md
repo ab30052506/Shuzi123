@@ -1,4 +1,4 @@
-# vivo官宣：将深度融合满血版DeepSeek
+﻿# vivo官宣：将深度融合满血版DeepSeek
 快科技2月12日消息，vivo今天正式宣布，将深度融合满血版DeepSeek，蓝心大模型与DeepSeek双擎驱动，AI能力更强。
 
 官方海报显示，融合DeepSeek后，vivo OriginOS预装应用蓝心小V将支持深度思考（R1）能力，可提供图片生成、AI文本创作、AI问答等功能。

@@ -1,6 +1,6 @@
-# AI应用场景
+﻿# AI应用场景
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 
 ## AI + 内容创作 
 [3秒让DeepSeek写出爆款小红书](AI%20+%20内容创作/3秒让DeepSeek写出爆款小红书.md)
@@ -53,5 +53,5 @@
 
 [教你用DeepSeek+Clien，从0到1开发一个APP](AI%20+%20编程开发/教你用DeepSeek+Clien，从0到1开发一个APP.md)
 
->  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 [https://ai.codefather.cn](https://ai.codefather.cn)
+>  你全面的 AI 知识库，一网打尽最新 AI 资讯，都在 []()
 

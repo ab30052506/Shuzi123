@@ -1,4 +1,4 @@
-# Vibe Coding 成本控制技巧
+﻿# Vibe Coding 成本控制技巧
 
 > 讓每一分錢都花在刀口上
 

@@ -1,10 +1,10 @@
-# 快速上手 Vibe Coding
+﻿# 快速上手 Vibe Coding
 
 > 10 分鐘做出你的第一個網頁應用並部署上線
 
 
 
-你好，我是程式員魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 編程博主](https://space.bilibili.com/12890453)，也是 [AI 導航](https://ai.codefather.cn) 和 [編程導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
+你好，我是程式員魚皮，前騰訊全端開發，全網 200 萬粉的 [AI 編程博主](https://space.bilibili.com/12890453)，也是 [AI 導航]() 和 [編程導航](https://www.codefather.cn) 等 10+ 自研產品的創造者。
 
 在上一篇文章中，我們聊了 Vibe Coding 的理念和思維方式。現在，是時候動手實踐了！
 

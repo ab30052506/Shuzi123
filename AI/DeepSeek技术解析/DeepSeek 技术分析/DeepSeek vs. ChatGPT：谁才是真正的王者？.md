@@ -1,4 +1,4 @@
-## DeepSeek vs. ChatGPT：谁才是真正的王者？
+﻿## DeepSeek vs. ChatGPT：谁才是真正的王者？
 
 
 作为一名PPC Campaign Manager，我每天都与各种数据和技术打交道。最近，DeepSeek的出现，让我对AI领域的未来发展充满了好奇，也让我开始思考：DeepSeek和ChatGPT，究竟谁更强大？

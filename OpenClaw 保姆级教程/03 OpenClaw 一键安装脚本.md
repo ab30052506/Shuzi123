@@ -1,4 +1,4 @@
-# OpenClaw 一键安装脚本
+﻿# OpenClaw 一键安装脚本
 
 > 一行命令搞定 OpenClaw 的所有依赖和配置
 
@@ -128,7 +128,7 @@ curl -fsSL https://codefather.cn/openclaw_install/install-openclaw.sh | bash
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

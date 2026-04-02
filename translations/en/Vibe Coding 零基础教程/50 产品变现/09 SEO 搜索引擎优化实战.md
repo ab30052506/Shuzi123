@@ -1,4 +1,4 @@
-# SEO Search Engine Optimization Practical Guide
+﻿# SEO Search Engine Optimization Practical Guide
 
 > Let more people discover your product
 
@@ -183,7 +183,7 @@ Keep pushing forward, and let more people discover your product!
 
 ## Recommended Resources
 
-1) Yupi's AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi's AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Search Guides, Q&A](https://www.codefather.cn)
 

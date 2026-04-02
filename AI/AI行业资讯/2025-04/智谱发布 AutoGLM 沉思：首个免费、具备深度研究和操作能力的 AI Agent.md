@@ -1,4 +1,4 @@
-# 智谱发布 AutoGLM 沉思：首个免费、具备深度研究和操作能力的 AI Agent
+﻿# 智谱发布 AutoGLM 沉思：首个免费、具备深度研究和操作能力的 AI Agent
 
 [IT 之家](https://www.ithome.com/) 3 月 31 日消息，IT 之家从智谱官方微信公众号获悉，今天智谱在中关村论坛上正式发布 AutoGLM 沉思。官方称，这一全新智能体不仅具备深度研究能力（Deep Research），还能实现实际操作（Operator），真正推动 AI Agent 进入“边想边干”的阶段。
 

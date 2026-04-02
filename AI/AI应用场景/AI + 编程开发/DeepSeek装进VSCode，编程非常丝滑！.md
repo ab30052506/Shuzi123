@@ -1,4 +1,4 @@
-## DeepSeek装进VSCode，编程非常丝滑！
+﻿## DeepSeek装进VSCode，编程非常丝滑！
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114000545193602&bvid=BV1NYKPebEyT&cid=28382921627&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="450"></iframe>
 

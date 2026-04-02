@@ -1,4 +1,4 @@
-# Kimi K2 - AI 文档阅读助手项目实战
+﻿# Kimi K2 - AI 文档阅读助手项目实战
 
 本项目是一个 AI 文档阅读助手网站，可以帮你快速读懂各种复杂的文档（论文、技术文档、PDF 等），还能帮你管理文档。
 
@@ -157,7 +157,7 @@ $env:ANTHROPIC_SMALL_FAST_MODEL="kimi-k2-turbo-preview"
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

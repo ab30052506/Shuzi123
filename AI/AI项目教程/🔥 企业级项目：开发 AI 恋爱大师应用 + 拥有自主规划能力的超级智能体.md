@@ -1,4 +1,4 @@
-# 🔥 企业级项目：开发 AI 恋爱大师应用 + 拥有自主规划能力的超级智能体
+﻿# 🔥 企业级项目：开发 AI 恋爱大师应用 + 拥有自主规划能力的超级智能体
 
 大家好，我是程序员鱼皮。又经过了一段时间的爆肝，我在 [编程导航](https://mp.weixin.qq.com/s/I1oD6pAaWBvGLyFDT9AgvA?token=1925632390&lang=zh_CN) 的保姆级新项目教程 ——  [AI 超级智能体](https://www.codefather.cn/course/1915010091721236482)，完结啦！
 

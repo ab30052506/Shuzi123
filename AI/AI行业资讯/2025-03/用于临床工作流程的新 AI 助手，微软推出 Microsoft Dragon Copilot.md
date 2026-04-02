@@ -1,4 +1,4 @@
-# 用于临床工作流程的新 AI 助手，微软推出 Microsoft Dragon Copilot
+﻿# 用于临床工作流程的新 AI 助手，微软推出 Microsoft Dragon Copilot
 
 ![<mark data-type=institutions data-id=8a8ef293-102d-482f-a616-12a37827b3f9>Microsoft</mark>, antitrust, Alaily, FTC. Google](https://image.jiqizhixin.com/uploads/editor/247c3683-00a8-4d6a-aa97-bc77e6750b20/640.jpeg)
 

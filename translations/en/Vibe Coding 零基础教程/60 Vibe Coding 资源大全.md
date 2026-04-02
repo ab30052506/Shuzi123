@@ -1,6 +1,6 @@
-# Vibe Coding Resource Guide
+﻿# Vibe Coding Resource Guide
 
-Hello, I'm Yupi, a former Tencent full-stack developer and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I'm also the creator of over 10 self-developed products, including [AI Navigation](https://ai.codefather.cn) and [Programming Navigation](https://www.codefather.cn).
+Hello, I'm Yupi, a former Tencent full-stack developer and an [AI programming blogger](https://space.bilibili.com/12890453) with 2 million followers across platforms. I'm also the creator of over 10 self-developed products, including [AI Navigation]() and [Programming Navigation](https://www.codefather.cn).
 
 While learning Vibe Coding, you might encounter these situations:
 
@@ -8,7 +8,7 @@ While learning Vibe Coding, you might encounter these situations:
 - Needing to look up information but not knowing where to find reliable content
 - Wanting to stay updated on the latest AI programming trends but finding the information too fragmented
 
-That's why I specifically developed the [Yupi AI Navigation](https://ai.codefather.cn/) website ([ai.codefather.cn](https://ai.codefather.cn/)).
+That's why I specifically developed the [Yupi AI Navigation](/) website ([shuzi123.vercel.app](/)).
 
 Whether you're looking for useful AI tools, the latest AI news, discovering AI prompt templates, or exchanging AI usage tips and learning AI knowledge, everything you need about AI can be found here!
 
@@ -20,7 +20,7 @@ The opportunities in the AI era are far more than imagined. Many aspects of our 
 
 But how do you find the tools and resources that truly suit you amidst the vast sea of AI options?
 
-[Yupi's AI Navigation website](https://ai.codefather.cn/) can help you solve this problem.
+[Yupi's AI Navigation website](/) can help you solve this problem.
 
 ### Comprehensive AI Tools
 
@@ -97,7 +97,7 @@ Many other excellent bloggers share knowledge across various platforms. It is th
 
 The world of AI is vast, and exploring it alone can be lonely. Let's explore it together!
 
-[Yupi AI Navigation](https://ai.codefather.cn/) is a one-stop resource platform I've specifically built for AI learners and developers. The website is completely free, meticulously organized, and continuously updated, covering rich content such as AI tools, prompts, learning resources, knowledge bases, news, and communities.
+[Yupi AI Navigation](/) is a one-stop resource platform I've specifically built for AI learners and developers. The website is completely free, meticulously organized, and continuously updated, covering rich content such as AI tools, prompts, learning resources, knowledge bases, news, and communities.
 
 **If you need Vibe Coding and other AI resources, visit Yupi's AI Navigation website.**
 
@@ -107,7 +107,7 @@ Finally, I want to emphasize again: **No matter how many resources you have, the
 
 If you're interested in AI, whether to improve efficiency, learn skills, or simply out of curiosity, welcome to experience it👇
 
-Yupi's AI Navigation: https://ai.codefather.cn
+Yupi's AI Navigation: 
 
 Any suggestions or desired features/content are welcome in the community. Thank you very much.
 
@@ -115,7 +115,7 @@ Remember to bookmark the website for easy exploration of AI~
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Website: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Search Guides, Q&A](https://www.codefather.cn)
 

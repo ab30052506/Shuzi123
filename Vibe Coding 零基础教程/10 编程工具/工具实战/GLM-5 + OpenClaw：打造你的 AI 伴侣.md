@@ -1,4 +1,4 @@
-# GLM-5 + OpenClaw：打造你的 AI 伴侣
+﻿# GLM-5 + OpenClaw：打造你的 AI 伴侣
 
 > 用 GLM-5 + OpenClaw 打造能聊天、发图片、发语音、还能帮你干活的 AI 伴侣
 
@@ -563,7 +563,7 @@ openclaw config set channels.qqbot.markdownSupport false
 
 ## 推荐资源
 
-1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程](https://ai.codefather.cn)
+1）鱼皮 AI 导航网站：[AI 资源大全、最新 AI 资讯、免费 AI 教程]()
 
 2）编程导航学习圈：[学习路线、编程教程、实战项目、求职宝典、交流答疑](https://www.codefather.cn)
 

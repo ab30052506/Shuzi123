@@ -1,4 +1,4 @@
-# Vibe Coding 上下文管理技巧
+﻿# Vibe Coding 上下文管理技巧
 
 > 讓 AI 真正理解你的專案
 

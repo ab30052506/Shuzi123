@@ -1,4 +1,4 @@
-# OpenSpec：輕量規範開發框架
+﻿# OpenSpec：輕量規範開發框架
 
 > 讓文件和程式碼始終保持同步
 
@@ -204,7 +204,7 @@ openspec archive add-user-search --yes
 
 ## 推薦資源
 
-1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程](https://ai.codefather.cn)
+1）魚皮 AI 導航網站：[AI 資源大全、最新 AI 資訊、免費 AI 教程]()
 
 2）程式設計導航學習圈：[學習路線、程式設計教程、實戰專案、求職寶典、交流答疑](https://www.codefather.cn)
 

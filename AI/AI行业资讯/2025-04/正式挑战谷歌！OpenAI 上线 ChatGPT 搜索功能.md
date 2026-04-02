@@ -1,4 +1,4 @@
-## 正式挑战谷歌！OpenAI 上线 ChatGPT 搜索功能
+﻿## 正式挑战谷歌！OpenAI 上线 ChatGPT 搜索功能
 
 如果说今年 7 月推出 SearchGPT 搜索功能原型还是在试探池子的深浅，那么今天，OpenAI 就真正开始挺进搜索领域，在 ChatGPT 中全面上线搜索功能，正式挑战搜索引擎一哥[谷歌](https://stock.finance.sina.com.cn/usstock/quotes/GOOG.html)(155.37, \-5.69, \-3.53%)，也向谷歌的老对手——OpenAI 自家“金主”[微软](https://stock.finance.sina.com.cn/usstock/quotes/MSFT.html)(381.35, \-9.14, \-2.34%) 发起挑战。
 

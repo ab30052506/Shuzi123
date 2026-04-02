@@ -1,4 +1,4 @@
-# GitHub Copilot - AI 塔罗牌占卜项目实战
+﻿# GitHub Copilot - AI 塔罗牌占卜项目实战
 
 这是一个利用 VSCode + GitHub Copilot 的 Plan 模式 + Agent 模式，从 0 到 1 开发的 AI 塔罗牌占卜网站。通过这个项目，你可以快速体验 GitHub Copilot 的核心 AI 编程能力，几分钟就能做出一个有翻牌动画、AI 占卜解读、神秘华丽界面的小项目。
 

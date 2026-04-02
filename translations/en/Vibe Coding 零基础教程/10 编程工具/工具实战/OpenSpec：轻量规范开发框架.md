@@ -1,4 +1,4 @@
-# OpenSpec: Lightweight Specification Development Framework
+﻿# OpenSpec: Lightweight Specification Development Framework
 
 > Keeping documentation and code always in sync
 
@@ -182,7 +182,7 @@ I recommend trying OpenSpec in your projects to experience the benefits of speci
 
 ## Recommended Resources
 
-1) Yupi AI Navigation Site: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials](https://ai.codefather.cn)
+1) Yupi AI Navigation Site: [Comprehensive AI Resources, Latest AI News, Free AI Tutorials]()
 
 2) Programming Navigation Learning Circle: [Learning Paths, Programming Tutorials, Practical Projects, Job Hunting Guide, Q&A](https://www.codefather.cn)
 

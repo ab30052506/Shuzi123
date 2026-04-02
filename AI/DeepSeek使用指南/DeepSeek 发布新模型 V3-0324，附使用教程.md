@@ -1,6 +1,6 @@
-# DeepSeek 发布新模型 V3-0324，附使用教程
+﻿# DeepSeek 发布新模型 V3-0324，附使用教程
 
-> 鱼皮的免费 AI 知识库：https://ai.codefather.cn
+> 鱼皮的免费 AI 知识库：
 
 昨天深夜，DeepSeek 突然发布新模型！
 
