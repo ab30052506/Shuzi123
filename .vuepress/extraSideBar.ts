@@ -3,41 +3,34 @@
  */
 export default [
   {
-    title: "编程导航",
-    icon: "/icon/xingqiu.png",
-    popoverTitle: "微信扫一扫",
-    popoverUrl: "/qrcode-codefather.png",
-    popoverDesc: "编程导航：编程导航",
-  },
-  // {
-  //   title: "编程导航",
-  //   icon: "/icon/xingqiu.png",
-  //   popoverTitle:
-  //     '<span style="font-size:0.8rem;font-weight:bold;"><span style="color:red;">保姆级实战项目教程</span>、编程学习指南、学习资源、求职指南、技术分享、编程交流</span>',
-  //   popoverUrl:
-  //     "/qrcode-codenav.png",
-  //   popoverDesc: "编程导航：编程导航",
-  // },
-  {
-    title: "交流群",
-    icon: "/icon/weixin.png",
+    title: "👑 加入会员",
+    icon: "/icon/vip.png",
     popoverTitle:
-      '<span style="font-size:0.8rem;font-weight:bold;">扫码添加 <span style="color:red;">编程导航小助手微信</span>，拉你进专属编程学习交流群</span>',
-    popoverUrl: "/qrcode-codenavhelper.png",
+      '<span style="font-size:0.8rem;font-weight:bold;">扫码加入会员，解锁全部付费教程和 AI 变现干货</span>',
+    popoverUrl: "/qrcode-member.jpg",
+    popoverDesc: "会员专属内容持续更新",
   },
   {
-    title: "下资料",
+    title: "📱 关注公众号",
     icon: "/icon/xiazai.png",
     popoverTitle:
-      '<span style="font-size:0.8rem;font-weight:bold;">扫码关注公众号，回复 <span style="color:red;">ai</span> 获取清华大学 DeepSeek 从入门到精通 PDF</span>',
-    popoverUrl: "/qrcode-mpcoder_yupi.jpg",
-    popoverDesc: "公众号: 程序员鱼皮",
+      '<span style="font-size:0.8rem;font-weight:bold;">扫码关注公众号，获取更多 AI 干货和免费资料</span>',
+    popoverUrl: "/qrcode-gzh.jpg",
+    popoverDesc: "公众号: 你的公众号名称",
   },
   {
-    title: "支持我",
+    title: "💬 交流群",
+    icon: "/icon/weixin.png",
+    popoverTitle:
+      '<span style="font-size:0.8rem;font-weight:bold;">扫码加我微信，拉你进 AI 交流群</span>',
+    popoverUrl: "/qrcode-weixin.jpg",
+    popoverDesc: "一起交流 AI 赚钱",
+  },
+  {
+    title: "❤️ 支持本站",
     icon: "/icon/dianzan.png",
-    popoverTitle: ' <span style="font-size:0.8rem;font-weight:bold;">鼓励和赞赏我</span>',
-    popoverUrl: "/qrcode-thumb.jpg",
-    popoverDesc: "感谢您的支持，作者头发++",
+    popoverTitle: ' <span style="font-size:0.8rem;font-weight:bold;">如果你觉得本站有用，欢迎赞赏支持</span>',
+    popoverUrl: "/qrcode-zhanshang.jpg",
+    popoverDesc: "感谢您的支持，我们会持续更新",
   },
 ];

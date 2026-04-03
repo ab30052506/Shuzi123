@@ -63,4 +63,8 @@ export default [
     text: "OpenClaw",
     link: "/_00-openclaw-保姆级教程导读/",
   },
+  {
+    text: "👑 会员专区",
+    link: "/member/",
+  },
 ] as NavItem[];

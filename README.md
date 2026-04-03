@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://pic.yupi.icu/1/vibe%252520coding%252520show%2525E5%2525A4%2525A7-20260113165845170.jpeg" alt="AI 工具教程" width="600"/>
 </p>
 

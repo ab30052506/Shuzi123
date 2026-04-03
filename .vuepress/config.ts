@@ -34,7 +34,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "ai, deepseek, AI 资讯，人工智能，AI 行业趋势，AI 技术，AI 新闻，AI 动态，AI 市场分析，AI 模型，AI 独家分析，AI 深度解读",
+          "ai, deepseek, AI 资讯，人工智能，AI 行业趋势，AI 技术，AI 新闻，AI 动态，AI 市场分析，AI 模型，AI 独家分析，AI 深度解读, AI教程, AI变现",
       },
     ],
     // 百度统计
