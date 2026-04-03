@@ -12,7 +12,7 @@ features:
 - icon: 🚀
   title: 新手入门
   details: 从 0 开始了解 AI，不用担心零基础，一篇文章看懂大模型、DeepSeek、怎么用 AI 赚钱。
-  link: /ai/#关于deepseek
+  link: /Deepseek/#关于deepseek
 - icon: 🔥
   title: AI 编程
   details: Vibe Coding、Cursor 技巧、AI 项目实战，手把手教你用 AI 写代码赚钱。
@@ -20,7 +20,7 @@ features:
 - icon: 🛠️
   title: 工具测评
   details: GPT-4o、Claude 4、DeepSeek 最新测评，告诉你哪个 AI 工具真正好用。
-  link: /tools/
+  link: /ai/#ai工具测评
 - icon: 💰
   title: AI 变现
   details: 多种 AI 变现方法，从副业到全职，普通人也能靠 AI 每月多赚几千块。
@@ -28,10 +28,10 @@ features:
 - icon: 🎬
   title: 视频创作
   details: 用 AI 做短视频，批量生成内容，一个月做出来千万播放爆款视频。
-  link: /ai/#ai应用场景
+  link: /ai/#视频创作
 - icon: 📈
   title: 办公效率
   details: AI 自动写 PPT、写总结、做图表，每天帮你节省 3 小时工作时间。
-  link: /ai/#ai应用场景
+  link: /ai/#办公效率
 footer: MIT Licensed | Copyright © 2026-present
 ---
