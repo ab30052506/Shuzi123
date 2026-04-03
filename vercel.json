@@ -5,7 +5,8 @@
       "src": "package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": ".vuepress/dist"
+        "distDir": ".vuepress/dist",
+        "maxDuration": 300
       }
     }
   ],
