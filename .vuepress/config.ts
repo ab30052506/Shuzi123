@@ -52,7 +52,8 @@ export default defineConfig({
       `,
     ],
   ],
-  permalink: "/:slug",
+  // 去掉后缀，让 /member 直接访问 index.html
+  permalink: "/:slug/",
 
   // 监听文件变化，热更新
   extraWatchFiles: [".vuepress/*.ts", ".vuepress/sidebars/*.ts"],
