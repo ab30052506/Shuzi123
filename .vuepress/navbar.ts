@@ -64,7 +64,11 @@ export default [
     link: "/_00-openclaw-保姆级教程导读/",
   },
   {
-    text: "👑 会员专区",
+    text: "�️ AI 工具",
+    link: "/tools/",
+  },
+  {
+    text: "�👑 会员专区",
     link: "/member/",
   },
 ] as NavItem[];

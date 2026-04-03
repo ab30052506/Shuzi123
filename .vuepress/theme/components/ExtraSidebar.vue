@@ -2,22 +2,33 @@
 <template xmlns="http://www.w3.org/1999/html">
   <aside class="page-sidebar">
     <slot name="top"/>
-      <div class="page-side-toolbar">
-          <div v-for="(item, index) in list" :key="index" class="option-box" @mouseover="showToc($event)" @mouseout="hideToc($event)">
-              <img class="nozoom" :src="item.icon" width="24px" />
-              <span class="show-txt" v-html="item.title" />
-              <div class="toc-container">
-                  <div class="pos-box">
-                      <div class="icon-arrow"></div>
-                      <div class="scroll-box" style="text-align:center">
-                          <span v-html="item.popoverTitle"></span>
-                          <img :src="item.popoverUrl" height="180px" style="margin:10px;" />
-                          <span v-html="item.popoverDesc"></span>
-                      </div>
+    
+    <div class="page-side-toolbar">
+      <div class="ad-banner" v-if="adConfig.show">
+        <a :href="adConfig.link" target="_blank" class="ad-link">
+          <img v-if="adConfig.image" :src="adConfig.image" class="ad-image" />
+          <div v-else class="ad-text">
+            <div class="ad-title">{{ adConfig.title }}</div>
+            <div class="ad-desc">{{ adConfig.desc }}</div>
+          </div>
+        </a>
+      </div>
+
+      <div v-for="(item, index) in list" :key="index" class="option-box" @mouseover="showToc($event)" @mouseout="hideToc($event)">
+          <img class="nozoom" :src="item.icon" width="24px" />
+          <span class="show-txt" v-html="item.title" />
+          <div class="toc-container">
+              <div class="pos-box">
+                  <div class="icon-arrow"></div>
+                  <div class="scroll-box" style="text-align:center">
+                      <span v-html="item.popoverTitle"></span>
+                      <img :src="item.popoverUrl" height="180px" style="margin:10px;" />
+                      <span v-html="item.popoverDesc"></span>
                   </div>
               </div>
           </div>
       </div>
+    </div>
     <slot name="middle"/>
 
     <slot name="bottom"/>
@@ -32,9 +43,15 @@ import NavLinks from '@theme/components/NavLinks.vue'
 export default {
   name: 'PageSidebar',
   data(){
-
     return {
-      list: []
+      list: [],
+      adConfig: {
+        show: true,
+        image: '',
+        title: '🔥 限时优惠',
+        desc: '加入会员立减 20 元',
+        link: '/member/'
+      }
     }
   },
   components: { NavLinks },
@@ -44,7 +61,10 @@ export default {
   computed: {
   },
   mounted() {
-    this.list = this.$site.themeConfig.extraSideBar
+    this.list = this.$site.themeConfig.extraSideBar || []
+    if (this.$site.themeConfig.adConfig) {
+      this.adConfig = { ...this.adConfig, ...this.$site.themeConfig.adConfig }
+    }
   },
   methods: {
       showToc($event){
@@ -107,9 +127,9 @@ function flatten (items, res) {
   border-left 0px solid #eaecef
   ul
     margin 0
-  a
+    a
     display inline-block
-  .nav-links
+    .nav-links
     display none
     border-bottom 1px solid $borderColor
     padding 0.5rem 0 0.75rem 0
@@ -140,13 +160,12 @@ function flatten (items, res) {
   width: 240px;
   background: #fff;
   border: 1px solid #eee;
-  // -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
-  // box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
-  // border-radius: 4px;
   left: unset;
   right: 100%;
   margin-right: 10px;
   margin-left: 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
   .on
     display: block;
   .pos-box
@@ -188,6 +207,41 @@ function flatten (items, res) {
   right 10px
   top 70px !important
   width 44px
+  
+  .ad-banner
+    background linear-gradient(135deg, #3eaf7c 0%, #36996c 100%)
+    border-radius 8px
+    margin-bottom 8px
+    overflow hidden
+    transition all 0.3s ease
+    
+    &:hover
+      transform scale(1.02)
+      box-shadow 0 4px 15px rgba(62, 175, 124, 0.3)
+    
+    .ad-link
+      display block
+      text-decoration none
+      
+    .ad-image
+      width 100%
+      height auto
+      display block
+      
+    .ad-text
+      padding 10px 8px
+      text-align center
+      color white
+      
+      .ad-title
+        font-size 12px
+        font-weight bold
+        margin-bottom 4px
+        
+      .ad-desc
+        font-size 10px
+        opacity 0.9
+  
   div.option-box:last-child
     border-top 0px solid #eee
   div.option-box.on
@@ -213,6 +267,7 @@ function flatten (items, res) {
     background-color #fff
     height 60px
     cursor pointer
+    transition all 0.3s ease
     .img
       margin-top 2px
     .show-txt
@@ -273,7 +328,7 @@ function flatten (items, res) {
       font-size 11px
   div.option-box:hover
     color white
-    background #eee
+    background #f5f5f5
   div.option-box-toc-over:hover
     color white
     background #eee
@@ -311,7 +366,6 @@ function flatten (items, res) {
     justify-content center
     border-bottom 1px solid #eee
     background-color #fff
-    //height 60px
     cursor pointer
     .show-txt
       color gray
@@ -319,8 +373,7 @@ function flatten (items, res) {
       font-size 11px
       padding 4px 0
   div.option-box:hover
-    //color white
-    //background #eee
+    background #f5f5f5
 
 .sitemap-container
   display: none;

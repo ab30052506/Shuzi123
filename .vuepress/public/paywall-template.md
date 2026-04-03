@@ -1,13 +1,72 @@
-# 文章标题在这里
+# 付费文章模板使用说明
 
+## 快速开始
+
+在你的 Markdown 文章中，使用以下标记来截断付费内容：
+
+```markdown
 这里写免费预览内容，写 300-500 字，把文章核心观点放出来，吸引用户想要继续看。
 
-...
+<!-- paid-content-start -->
 
-<!-- 付费分割线 -->
-<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 30px; text-align: center; margin: 40px 0;">
-  <div style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">🔒 本文剩余内容为会员专属</div>
-  <div style="font-size: 16px; color: #666; margin-bottom: 20px;">加入会员即可阅读全文，解锁全部付费教程和 AI 变现干货</div>
-  <a href="/member/" style="display: inline-block; background: #3eaf7c; color: white; font-size: 16px; padding: 12px 30px; border-radius: 6px; text-decoration: none; font-weight: bold;">立即加入会员 →</a>
-  <div style="margin-top: 15px; font-size: 14px; color: #999;">已有会员？扫码在知识星球查看全文</div>
-</div>
+这里写付费内容，只有会员才能看到。
+
+<!-- paid-content-end -->
+```
+
+## 完整示例
+
+```markdown
+---
+title: 如何用 AI 每月多赚 5000 元
+description: 本文分享 5 个经过验证的 AI 变现方法
+date: 2026-04-03
+---
+
+# 如何用 AI 每月多赚 5000 元
+
+本文将分享 5 个经过验证的 AI 变现方法，每个方法都有详细的操作步骤和收益分析。
+
+## 为什么普通人也能用 AI 赚钱？
+
+AI 时代最大的变化是：创作门槛大幅降低。以前需要专业技能才能做的事情，现在 AI 都能帮你完成。
+
+## 方法一：AI 写作变现
+
+这是门槛最低的方法，适合所有人...
+
+<!-- paid-content-start -->
+
+## 方法二：AI 绘画变现
+
+AI 绘画是目前最火的赛道之一...
+
+## 方法三：AI 视频变现
+
+短视频是目前流量最大的赛道...
+
+<!-- paid-content-end -->
+```
+
+## 注意事项
+
+1. `<!-- paid-content-start -->` 和 `<!-- paid-content-end -->` 必须成对出现
+2. 免费预览部分建议写 300-500 字，把文章核心观点放出来
+3. 付费内容在前端会被隐藏，搜索引擎也爬不到
+4. 用户看到的是一个漂亮的会员解锁卡片
+
+## 替代方案：使用容器语法
+
+也可以使用容器语法（效果相同）：
+
+```markdown
+这里写免费预览内容...
+
+::: paid
+付费内容会被替换为会员解锁卡片
+:::
+```
+
+## 自定义会员链接
+
+默认会员链接是 `/member/`，如需修改，编辑 `.vuepress/plugins/paywall-plugin.js` 文件中的 `memberLink` 参数。

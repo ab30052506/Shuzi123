@@ -3,6 +3,7 @@ import extraSideBar from "./extraSideBar";
 import footer from "./footer";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
+import paywallPlugin from "./plugins/paywall-plugin";
 
 const author = "数字工具导航";
 const domain = "https://shuzi123.vercel.app";
@@ -58,10 +59,13 @@ export default defineConfig({
   // 监听文件变化，热更新
   extraWatchFiles: [".vuepress/*.ts", ".vuepress/sidebars/*.ts"],
   markdown: {
-    // 开启代码块的行号
     lineNumbers: true,
-    // 支持 4 级以上的标题渲染
     extractHeaders: ["h2", "h3", "h4", "h5", "h6"],
+    extendMarkdown: (md) => {
+      md.use(paywallPlugin, {
+        memberLink: "/member/"
+      });
+    },
   },
   // @ts-ignore
   plugins: [
