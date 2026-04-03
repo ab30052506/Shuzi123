@@ -7,7 +7,7 @@
     "getMdNumber": "node ./.vuepress/scripts/getMdNumber.js",
     "docs:dev": "vuepress dev .",
     "pre-docs:build": "npm run generate:sidebar ./AI && npm run generate:readme ./AI",
-    "docs:build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build .",
+    "docs:build": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress build .",
     "build": "npm run docs:build",
     "serve": "serve ./.vuepress/dist"
   },
@@ -16,6 +16,7 @@
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-google-analytics": "^1.9.10",
     "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "cross-env": "^10.1.0",
     "vuepress": "^1.9.10",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-feed": "^0.1.9",
